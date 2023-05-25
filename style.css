@@ -1,13 +1,18 @@
+.header {
+    text-align: center;
+}
+
 .tweet {
-  border: 1px solid #0099CC;
+  border: 1px solid #313131;
   border-radius: 5px;
   margin: 20px 20%;
   padding: 20px;
+  background-color: rgb(227, 227, 227);
 }
 
 .username,
 .date {
-  color: #999;
+  color: #3f3f3f;
   display: inline-block;
   margin: 0 10px;
 }
